@@ -1,3 +1,7 @@
+Acknowledgement: A special thanks to Phil Greenland for creating this library and also agreeing to let me reshare via GitHub. If you use and appreciate this library be sure to drop Phil a line thanking him.
+
+--Rick
+
 #### OpenSCAD 3D Text Generator
 
 ![Hello World Preview](./images/HelloWorld_preview_featured.jpg)
